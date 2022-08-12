@@ -1,0 +1,6 @@
+numpy
+mnist
+tensorflow
+matplotlib
+pillow
+pyqt5
